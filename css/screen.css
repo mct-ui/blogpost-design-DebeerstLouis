@@ -78,6 +78,10 @@ h2 {
   color: #17181a;
 }
 
+* + h2 {
+  margin-top: 48px;
+}
+
 h3 {
   font-size: 18px;
   line-height: 24px;
